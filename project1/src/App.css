@@ -7,6 +7,10 @@ body{
 }
 
 
+*{
+    margin: 0;
+}
+
 :root{
     --red: #d01c28; 
     --gray: #2e2e2e;

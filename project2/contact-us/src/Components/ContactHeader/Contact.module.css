@@ -1,0 +1,20 @@
+.sectionConatiner{
+    width: 1132px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: calc(100vh - 72px);
+}
+
+.contact{
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.contactDes{
+    font-size: 16px;
+    font-weight: 500;
+    width: 975px;
+}
+
+

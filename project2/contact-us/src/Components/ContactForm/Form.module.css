@@ -1,0 +1,87 @@
+.form{
+    display: flex;
+    gap: 81px;
+}
+
+.via{
+    display: flex;
+    gap: 32px;
+    flex-direction: column;
+}
+
+button{
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+.bigButton{
+    width: 472px;
+    height: 44px;
+    background-color: white;
+}
+
+.smallButtonsflex{
+    display: flex;
+    gap: 36px
+}
+
+.smallButton{
+    width: 220px;
+    height: 44px;
+    background-color: black;
+    color: white;
+}
+
+.formImage{
+    width: 508.87px;
+    height: 488.31px;
+}
+
+.contact_form {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  .contact_form form {
+    display: flex;
+    gap: 20px;
+    padding-bottom: 20px;
+    flex-direction: column;
+  }
+  .form_control {
+    display: flex;
+    flex-direction: column;
+    width: 440px;
+    position: relative;
+    margin: 0 auto;
+  }
+  .form_control input {
+    height: 40px;
+    padding: 0 8px;
+  }
+  .form_control textarea {
+    padding: 8px;
+  }
+  
+  .form_control label {
+    font-size: 14px;
+    position: absolute;
+    top: -12px;
+    left: 10px;
+    background-color: white;
+    padding: 0 10px;
+  }
+
+  .fullForm{
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+  }
+
+  .submit_button{
+    display: flex;
+    justify-content: end;
+    width: 440px;
+    margin: 0 auto;
+  }
